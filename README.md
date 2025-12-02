@@ -2,8 +2,6 @@
 
 ---
 
-## Featured Projects
-
 ## Application 6
 
 ### Demo Video
